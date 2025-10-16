@@ -36,6 +36,8 @@ Clairvue is a multi-user RSS feed aggregator designed for efficient content orga
 - **Filters and Search (Planned):** Includes chronological and unread filters, with topic detection and advanced queries under development.
 - **Authentication:** Basic authentication implemented, with OAuth planned for future releases.
 
+
+
 ### Planned Enhancements
 
 - **Annotations:** Add notes and highlights directly within articles.
