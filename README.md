@@ -15,6 +15,8 @@ Clairvue is a multi-user RSS feed aggregator designed for efficient content orga
 
 ## Key Features
 
+
+
 ### Core Functionality
 
 - **Private and Public Collections:** Users can create private feeds and collections, while admins can publish public collections for subscription or cloning.
