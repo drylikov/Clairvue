@@ -29,6 +29,8 @@ Clairvue is a multi-user RSS feed aggregator designed for efficient content orga
 
 ### Technical Highlights
 
+
+
 - **Scalable Worker System:** Synchronization tasks are offloaded to scalable worker instances, ensuring efficient updates even with large numbers of feeds.
 - **Built-in Reader:** Provides a distraction-free reading mode with dark/light themes and font size adjustments.
 - **Filters and Search (Planned):** Includes chronological and unread filters, with topic detection and advanced queries under development.
