@@ -45,6 +45,8 @@ Clairvue is a multi-user RSS feed aggregator designed for efficient content orga
 - **Annotations:** Add notes and highlights directly within articles.
 - **Topic Detection:** Automatically categorize articles by content themes.
 
+
+
 ## Monorepo Structure
 
 Clairvue uses a monorepo structure to organize its components for modularity and collaboration. The repository is divided into the following packages:
