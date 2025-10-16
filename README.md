@@ -49,6 +49,8 @@ Clairvue is a multi-user RSS feed aggregator designed for efficient content orga
 
 ## Monorepo Structure
 
+
+
 Clairvue uses a monorepo structure to organize its components for modularity and collaboration. The repository is divided into the following packages:
 
 - **`app`**: The main application responsible for the frontend and backend logic, including the user interface and API routes.
